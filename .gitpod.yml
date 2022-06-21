@@ -84,3 +84,8 @@ ports:
 vscode:
   extensions:
     - dart-code.flutter
+    - nash.awesome-flutter-snippets
+    - dart-code.dart-code
+    - usernamehw.errorlens
+    - bendixma.dart-data-class-generator
+    - esbenp.prettier-vscode
